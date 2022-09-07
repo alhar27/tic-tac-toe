@@ -1,5 +1,5 @@
 # tic-tac-toe
-React application to learn the fundamentals of react.
+React application to learn the fundamentals of react-hooks.
 
 # Getting Started with Create React App
 ### `npm install`
